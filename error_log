@@ -1,0 +1,1 @@
+[06-Nov-2018 12:11:16 Asia/Almaty] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/getconsu/public_html/application/controllers/Home.php on line 1175

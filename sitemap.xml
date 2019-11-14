@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+
+  <loc>https://getconsumerproducts.com/</loc>
+
+  <changefreq>daily</changefreq>
+
+  <priority>1.00</priority>
+
+</url>
+
+
+
+<url>
+
+  <loc>https://getconsumerproducts.com/about-us</loc>
+
+  <changefreq>daily</changefreq>
+
+  <priority>1.00</priority>
+
+</url>
+
+
+
+<url>
+
+  <loc>https://getconsumerproducts.com/contact-us</loc>
+
+  <changefreq>daily</changefreq>
+
+  <priority>1.00</priority>
+
+</url>
+
+
+
+<url>
+
+  <loc>https://getconsumerproducts.com/privacy-policy</loc>
+
+  <changefreq>daily</changefreq>
+
+  <priority>1.00</priority>
+
+</url>
+
+
+
+<url>
+
+  <loc>https://getconsumerproducts.com/cookie-policy</loc>
+
+  <changefreq>daily</changefreq>
+
+  <priority>1.00</priority>
+
+</url>
+
+
+
+<url>
+
+  <loc>https://getconsumerproducts.com/terms-and-conditions</loc>
+
+  <changefreq>monthly</changefreq>
+
+  <priority>1.00</priority>
+
+</url>
+
+<url>
+
+  <loc>https://getconsumerproducts.com/hot-deals</loc>
+
+  <changefreq>monthly</changefreq>
+
+  <priority>1.00</priority>
+
+</url>
+
+
+</urlset>
